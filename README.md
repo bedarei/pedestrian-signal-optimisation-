@@ -32,3 +32,9 @@ Open `Simulation_t-test.R` in RStudio and run — no external packages required.
 ### Files
 - `Simulation_t-test.R` — Simulation and statistical analysis
 - `Report.pdf` — Project report including methodology and recommendations
+
+### My Contributions
+This was a group project (5 members). My role covered:
+- Event logic design and DES architecture
+- Results analysis and discussion
+- Data visualisation and figures throughout the report
